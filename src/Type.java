@@ -1,0 +1,9 @@
+public enum Type {
+    NUMBER,
+    LEFT_PARENTHESIS,
+    RIGHT_PARENTHESIS,
+    MULTIPLICATION,
+    SUBTRACTION,
+    DIVIDING,
+    ADDING
+}
